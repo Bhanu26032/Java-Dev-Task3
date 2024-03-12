@@ -17,7 +17,7 @@ This Java program implements a simple Survey System using Object-Oriented Progra
 ## Setup
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/Java-Dev-Task3.git
+    git clone https://github.com/Bhanu26032/Java-Dev-Task3.git
 
 Open the project in your preferred Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse).
 
